@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-21p-gy-21p-bmp280-si7021",
+  "title": "gy-21p-gy-21p-bmp280-si7021",
+  "keywords": "gy-21p-gy-21p-bmp280-si7021, esp32, esp8266, arduino",
+  "description": "gy-21p-gy-21p-bmp280-si7021 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-21p-gy-21p-bmp280-si7021/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-21p-gy-21p-bmp280-si7021/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
